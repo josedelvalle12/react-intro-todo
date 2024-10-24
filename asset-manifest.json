@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/josedelvalle12/react-intro-todo/static/css/main.d26ba72a.css",
+    "main.js": "/josedelvalle12/react-intro-todo/static/js/main.25306972.js",
+    "static/media/cargando.gif": "/josedelvalle12/react-intro-todo/static/media/cargando.e548ac4fd4469f1185fc.gif",
+    "index.html": "/josedelvalle12/react-intro-todo/index.html",
+    "main.d26ba72a.css.map": "/josedelvalle12/react-intro-todo/static/css/main.d26ba72a.css.map",
+    "main.25306972.js.map": "/josedelvalle12/react-intro-todo/static/js/main.25306972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d26ba72a.css",
+    "static/js/main.25306972.js"
+  ]
+}
