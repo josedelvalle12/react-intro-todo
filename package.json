@@ -35,8 +35,10 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "D:/Documents/Platzi/CursodeReactJS/react-intro-todo/build",
+  "homepage": "/Documents/Platzi/CursodeReactJS/react-intro-todo/build/static/js/main.5b34547c.js",
   "devDependencies": {
     "gh-pages": "^6.2.0"
   }
 }
+
+
