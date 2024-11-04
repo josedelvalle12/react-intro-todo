@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/josedelvalle12/react-intro-todo/static/css/main.d26ba72a.css",
-    "main.js": "/josedelvalle12/react-intro-todo/static/js/main.25306972.js",
-    "static/media/cargando.gif": "/josedelvalle12/react-intro-todo/static/media/cargando.e548ac4fd4469f1185fc.gif",
-    "index.html": "/josedelvalle12/react-intro-todo/index.html",
-    "main.d26ba72a.css.map": "/josedelvalle12/react-intro-todo/static/css/main.d26ba72a.css.map",
-    "main.25306972.js.map": "/josedelvalle12/react-intro-todo/static/js/main.25306972.js.map"
+    "main.css": "/Documents/Platzi/CursodeReactJS/curso-react-intro-main/build/static/css/main.d26ba72a.css",
+    "main.js": "/Documents/Platzi/CursodeReactJS/curso-react-intro-main/build/static/js/main.323b4519.js",
+    "static/media/cargando.gif": "/Documents/Platzi/CursodeReactJS/curso-react-intro-main/build/static/media/cargando.e548ac4fd4469f1185fc.gif",
+    "index.html": "/Documents/Platzi/CursodeReactJS/curso-react-intro-main/build/index.html",
+    "main.d26ba72a.css.map": "/Documents/Platzi/CursodeReactJS/curso-react-intro-main/build/static/css/main.d26ba72a.css.map",
+    "main.323b4519.js.map": "/Documents/Platzi/CursodeReactJS/curso-react-intro-main/build/static/js/main.323b4519.js.map"
   },
   "entrypoints": [
     "static/css/main.d26ba72a.css",
-    "static/js/main.25306972.js"
+    "static/js/main.323b4519.js"
   ]
 }
